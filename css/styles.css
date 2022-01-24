@@ -97,20 +97,20 @@ letter-spacing: 0.03em;
     resize: none;
 }
 /* header */
-.header-container {
+.main-nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.header-navigation {
+.header-nav{
     display: flex;
     align-items: center;
 }
-.header-list {
+.header__list {
     display: flex;
     align-items: center;
 }
-.header-list-direction {
+.header__ {
     display: flex;
     align-items: center;
     margin-left: auto;
